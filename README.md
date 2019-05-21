@@ -19,6 +19,6 @@ Adicionalemente para mejorar la detección de barcos a la deriva, se ofrece util
 Para la creación de prototipos y de un producto mínimo viable (MVP) vamos a manejar etapas donde aumentamos la complejidad:
 
 |Etapa|Descripción|Resumen de hardware|
-|[Chispa]()|Luz y baterías recargables|Led, micro mínima, transistor, batería recargable, carga inalámbrica, caja de epoxy, indicador visual de batería|
+|[Chispa](https://github.com/fede2cr/chispa-iot/blob/master/Chispa.md)|Luz y baterías recargables|Led, micro mínima, transistor, batería recargable, carga inalámbrica, caja de epoxy, indicador visual de batería|
 |IoT|Luz y reporte GPS|Se agrega micro ESP con GPS y LoRa, se reporta posición y carga de batería|
 |Alarma|Panel de control|Se agrega una interfaz de control, para en las noches activar geofencing independiente para cada barco|
