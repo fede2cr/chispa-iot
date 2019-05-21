@@ -45,3 +45,11 @@ Evaluar en períodos de 1 y 3 meses:
 - carga inalámbrica
 - caja de epoxy
 - indicador visual de batería
+
+## Patrón estroboscópico
+
+Cada dos segundos, repite este patrón:
+- high
+- pausa 100ms
+- low
+- pausa 400ms
